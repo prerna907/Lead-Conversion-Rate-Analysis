@@ -1,3 +1,5 @@
+> **Tip:** If GitHub fails to render the notebook, [View it directly on nbviewer](https://nbviewer.org/github/prerna907/Lead-Conversion-Rate-Analysis/blob/main/LeadScore_CaseStudy.ipynb)
+
 # Lead-Conversion-Rate-Analysis
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
 
